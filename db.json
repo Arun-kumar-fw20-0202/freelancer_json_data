@@ -1,0 +1,36 @@
+{
+  "freelancers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "hourly_rate": 25,
+      "profile_picture": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Downloader_45493fc392.png",
+      "isBooked": false
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": ["Photoshop", "Illustrator"],
+      "hourly_rate": 30,
+      "profile_picture": "https://www.masaischool.com/img/hire-masai-grads/Vamsee_Mohan_Kamabathula.jpeg",
+      "isBooked": true
+    },
+    {
+      "name": "katill",
+      "profile_picture": "https://masai-website-images.s3.ap-south-1.amazonaws.com/image_47_a922f4522c.png",
+      "hourly_rate": "1500",
+      "email": "arun07744@gmail.com",
+      "profession": "Web Developer",
+      "skills": ["html", "css", "js"],
+      "isBooked": false,
+      "id": 3
+    }
+  ]
+}
